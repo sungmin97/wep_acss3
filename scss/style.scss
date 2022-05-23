@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+.container{
+    /* 주석메모 */
+	$w_size : 100px;
+	$h_size : 100px;
+	$back_coloer: red;
+	.box{
+	      width : $w_size;
+	      height: $h_size;
+	    background: $back_coloer;
+	}
+}

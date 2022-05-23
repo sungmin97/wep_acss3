@@ -1,0 +1,11 @@
+.section {
+  width: 100%;
+}
+.section .list {
+  padding: 20px;
+}
+.section .list li {
+  float: left;
+}
+
+/*# sourceMappingURL=common.css.map */

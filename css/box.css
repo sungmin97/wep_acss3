@@ -1,0 +1,14 @@
+.box {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: sans-serif;
+  coloer: orange;
+}
+.box::after {
+  content: "THE END";
+}
+.box span.intro {
+  background: url("/images/intro.png");
+}
+
+/*# sourceMappingURL=box.css.map */
